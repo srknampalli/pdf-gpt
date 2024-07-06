@@ -1,0 +1,9 @@
+llama-parse  # Replace with the correct version
+openai
+nest_asyncio
+peft==0.2.0
+python-dotenv
+llama-index
+llama-index[faiss]
+faiss-cpu
+streamlit
